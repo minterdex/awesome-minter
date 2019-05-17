@@ -1,4 +1,4 @@
-<p align="center" background="black"><img src="minter-logo.svg" width="400"></p>
+<p align="center" background="black"><img src="minter-logo.svg" width="400"><br><br></p>
 
 ## Awesome Minter Blockchain Resources
 
