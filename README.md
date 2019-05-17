@@ -8,7 +8,7 @@
     - [Official Resources](#official-resources)
     - [Official Wallets](#official-wallets)
     - [Official Docs](#official-docs)
-    - [Where to Buy](#where-to-buy)
+    - [Where to Buy](#where-to-buy-minter-bip)
     - [Validators Rating](#validators-rating)
     - [Community](#community)
     - [External Resources](#external-resources)
