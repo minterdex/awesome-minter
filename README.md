@@ -8,6 +8,7 @@
     - [Official Resources](#official-resources)
     - [Official Wallets](#official-wallets)
     - [Official Docs](#official-docs)
+    - [Where to Buy](#where-to-buy)
     - [Validators Rating](#validators-rating)
     - [Community](#community)
     - [External Resources](#external-resources)
@@ -48,6 +49,11 @@
 - [About TON](https://about.minter.network/ton)
 - [Whitepaper](https://about.minter.network/Minter_White_Paper.pdf?v04)
 - [Help](https://help.minter.network/)
+
+### Where to buy Minter (BIP)
+
+- [Minter DEX OTC](https://discord.gg/RrTusbW) - English
+- [Minter Telegram OTC](https://t.me/Minter_OTC) - Russian
 
 ### Validators Rating
 - [Interchain.Zone](https://minter.interchain.zone/)
