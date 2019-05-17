@@ -6,9 +6,11 @@
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Job Portal](#job-portal)
+    - [Official Wallets](#official-wallets)
+    - [Official Docs](#official-docs)
+    - [Validators Rating](#validators-rating)
     - [Community](#community)
+    - [External Resources](#external-resources)
     - [Blog Posts](#blog-posts)
 
 
@@ -16,22 +18,49 @@
 
 ### Official Resources
 
-- [Official Website](https://www.minter.network/)
-- [Official Info](https://about.minter.network/)
-- [Official Docs](https://docs.minter.network/)
+- [Website](https://www.minter.network/)
+- [Minter Apps](https://apps.minter.network/)
+- [Block Explorer](https://explorer.minter.network/)
+- [Coin Calculator](https://calculator.beta.minter.network/)
+- [Blockchain Status](https://status.minter.network/)
+- [Bip.to Wallet](https://www.bip.to/)
 - [GitHub Repo](https://github.com/MinterTeam)
 - [Releases Notes](https://github.com/MinterTeam/minter-go-node/releases)
-- [Minter Official Blog](https://medium.com/@MinterTeam)
-- [Block Explorer](https://explorer.minter.network/)
-- [Official Console](https://console.minter.network)
+- [Blog](https://medium.com/@MinterTeam)
 
-### External Resources
-- [Validator List](https://monsternode.net/validators.php) by Montestnode
-- [Validator List](https://minter.interchain.zone/en) by Interchain
-- [Minter Forum](https://kuznya.org/)
+### Official Wallets
 
-### Job Portal
+- [Console](https://console.minter.network)
+- [Bip Web Wallet](https://wallet.bip.to/auth)
+- [Bip iOS Wallet](https://itunes.apple.com/ru/app/bip-wallet/id1457843214?l=en&mt=8)
+- [Bip Android Wallet](https://play.google.com/store/apps/details?id=network.minter.bipwallet.mainnet)
+
+### Official Docs
+
+- [Docs](https://docs.minter.network/)
+- [Perpertual Coin Offering](https://about.minter.network/Minter_PCO.pdf)
+- [Perpetual Coin Offering Keynote](https://about.minter.network/Minter_PCO_Keynote.pdf)
+- [About Minter](https://about.minter.network/)
+- [About Masternode](https://about.minter.network/masternode)
+- [About Validator](https://about.minter.network/validator)
+- [About Delegators](https://about.minter.network/delegator)
+- [About Coins](https://about.minter.network/coins)
+- [About TON](https://about.minter.network/ton)
+- [Whitepaper](https://about.minter.network/Minter_White_Paper.pdf?v04)
+- [Help](https://help.minter.network/)
+
+### Validators Rating
+- [Interchain.Zone](https://minter.interchain.zone/)
+- [Monsternode](https://monsternode.net/validators.php)
+- [Minter Store](https://overview.minter.store/)
+- [Stakeholder](https://minter.stakeholder.space/validator/overview/)
 
 ### Community
 
 - [Minter DEX Discord Group](https://discord.gg/KgWqCsa)
+- [Unofficial Forum](https://kuznya.org/)
+
+### External Resources
+- [Minter Tools](https://minter.tools/)
+
+### Blog Posts
